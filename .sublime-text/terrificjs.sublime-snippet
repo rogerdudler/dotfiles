@@ -1,0 +1,32 @@
+<snippet>
+    <content><![CDATA[(function(\$) {
+    /**
+     * ${1:Example} module implementation.
+     *
+     * @author Roger Dudler <roger.dudler@namics.com>
+     * @namespace Tc.Module
+     * @class ${1:Example}
+     * @extends Tc.Module
+     */
+    Tc.Module.${1:Example} = Tc.Module.extend({
+        
+        on: function(callback) {
+            var that = this;
+            var \$ctx = this.\$ctx;
+
+            ${2}
+
+            callback();
+        },
+        
+        after: function() {
+            
+        }
+
+    });
+})(Tc.\$);
+]]></content>
+    <tabTrigger>terrific</tabTrigger>
+    <scope>source.js</scope>
+    <description>Create a Terrific JS class</description>
+</snippet>

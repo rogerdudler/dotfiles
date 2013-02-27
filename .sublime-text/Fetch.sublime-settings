@@ -1,0 +1,19 @@
+{
+	"files":
+	{
+		"calendar": "https://raw.github.com/rogerdudler/calendar.dot.js/master/jquery-calendar-dot.min.js",
+		"dot": "https://raw.github.com/olado/doT/master/doT.min.js",
+		"dropdown": "https://raw.github.com/rogerdudler/dropdown.dot.js/master/jquery-dropdown-dot.min.js",
+		"jquery": "http://code.jquery.com/jquery.min.js",
+		"moment": "https://raw.github.com/timrwood/moment/master/min/moment.min.js",
+		"normalize": "https://raw.github.com/necolas/normalize.css/master/normalize.css",
+		"path": "https://raw.github.com/mtrpcic/pathjs/master/path.min.js",
+		"reset": "http://yui.yahooapis.com/3.8.1/build/cssreset/cssreset-min.css",
+		"terrific": "http://terrifically.org/downloads/terrific-latest.min.js",
+		"zepto": "http://zeptojs.com/zepto.min.js"
+	},
+	"packages":
+	{
+		"terrific": "https://github.com/rogerdudler/terrific-micro/archive/master.zip"
+	}
+}

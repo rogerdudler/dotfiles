@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[
+/* @group Module: ${1:example} */
+@media all {
+
+    .mod-${1:example} {
+        ${2}
+    }
+
+}
+/* @end */
+]]></content>
+    <tabTrigger>terrific</tabTrigger>
+    <scope>source.css,source.less,source.scss</scope>
+    <description>Create a Terrific CSS template</description>
+</snippet>
